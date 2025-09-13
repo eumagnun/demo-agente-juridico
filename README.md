@@ -11,7 +11,7 @@ A solução é composta pelos seguintes componentes:
       * `root_agent`: O agente principal que interage com o usuário.
       * `advogado_agent`: Um sub-agente especialista com a persona de um advogado para análises mais detalhadas.
       * `get_info_processos_juridicos`: Uma ferramenta (tool) que se conecta à API do Databricks para executar consultas SQL de forma segura.
-  * **Hospedagem (Vertex AI Reasoning Engines):** O agente é empacotado e implantado como um serviço escalável e gerenciável no Google Cloud.
+  * **Hospedagem (Vertex AI Agent Engine):** O agente é empacotado e implantado como um serviço escalável e gerenciável no Google Cloud.
   * **Interface de Uso (Agentspace):** O agente implantado é registrado no Agentspace, tornando-se detectável e pronto para uso.
 
 ## Pré-requisitos
