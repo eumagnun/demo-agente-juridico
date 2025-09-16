@@ -1,4 +1,5 @@
-# Agente Jurídico com Vertex AI e Databricks
+# Software criado apenas para fins de testes, sem qualquer tipo de garantia
+## Agente Jurídico com Vertex AI e Databricks
 
 Este projeto demonstra a criação de um assistente de IA (agente) de ponta a ponta, capaz de consultar uma base de dados de processos jurídicos hospedada no Databricks. O agente utiliza o Agent Development Kit (ADK) do Google e é implantado no Vertex AI Agent Engine, tornando-se acessível através do Agentspace.
 
